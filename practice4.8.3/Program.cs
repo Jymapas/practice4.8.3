@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace practice4._8._3
+﻿namespace practice4._8._3
 {
     internal class Program
     {
